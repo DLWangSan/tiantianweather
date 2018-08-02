@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="tiantian_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.tiantian.dalaowangsan.tiantianweather.db.City"/>
+        <mapping class="com.tiantian.dalaowangsan.tiantianweather.db.County"/>
+        <mapping class="com.tiantian.dalaowangsan.tiantianweather.db.Province"/>
+    </list>
+</litepal>
